@@ -5,3 +5,4 @@ Fetch API Tutorial Javascript
 
 https://github.com/matheusbattisti/fetch_api_tutorial
 
+https://www.youtube.com/watch?v=qIGYM4S8x50
